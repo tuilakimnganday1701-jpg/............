@@ -1,0 +1,7 @@
+voila>=0.5
+ipywidgets>=8
+ipykernel
+pandas
+numpy
+scikit-learn
+
